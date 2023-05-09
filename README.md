@@ -1,4 +1,9 @@
-# BALLS PRAKTIKUM
 
-group project based on UE5
-brrr
+# Practice project by Team "BALLS"
+
+
+
+
+## Authors
+
+- [@lilbentley](https://www.github.com/lilbentley)
